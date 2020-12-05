@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AsianOption_Pricer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AsianOption_Pricer">
+				<Option output="/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/AsianOption_Pricer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 AsianOption_Pricer"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AsianOption_Pricer/fast">
+				<Option output="/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/AsianOption_Pricer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 AsianOption_Pricer/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/parthparakh/CLionProjects/AsianOption_Pricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/parthparakh/CLionProjects/AsianOption_Pricer/AsianOption.cpp">
+			<Option target="AsianOption_Pricer"/>
+		</Unit>
+		<Unit filename="/Users/parthparakh/CLionProjects/AsianOption_Pricer/AsianOption.h">
+			<Option target="AsianOption_Pricer"/>
+		</Unit>
+		<Unit filename="/Users/parthparakh/CLionProjects/AsianOption_Pricer/PathGenerator.h">
+			<Option target="AsianOption_Pricer"/>
+		</Unit>
+		<Unit filename="/Users/parthparakh/CLionProjects/AsianOption_Pricer/PayOff.cpp">
+			<Option target="AsianOption_Pricer"/>
+		</Unit>
+		<Unit filename="/Users/parthparakh/CLionProjects/AsianOption_Pricer/PayOff.h">
+			<Option target="AsianOption_Pricer"/>
+		</Unit>
+		<Unit filename="/Users/parthparakh/CLionProjects/AsianOption_Pricer/main.cpp">
+			<Option target="AsianOption_Pricer"/>
+		</Unit>
+		<Unit filename="/Users/parthparakh/CLionProjects/AsianOption_Pricer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
